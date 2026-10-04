@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Protein Tracker</string>
+
+    <!-- Navigation -->
+    <string name="tab_log">Registrar</string>
+    <string name="tab_today">Hoy</string>
+    <string name="tab_history">Historial</string>
+
+    <!-- Tab: Registrar -->
+    <string name="log_title">Registrar alimento</string>
+    <string name="log_edit_title">Editar alimento</string>
+    <string name="field_name">Nombre del alimento</string>
+    <string name="field_amount">Cantidad (g)</string>
+    <string name="field_protein">Proteína por 100 g</string>
+    <string name="label_icon">Elige un icono</string>
+    <string name="error_name">Escribe el nombre del alimento</string>
+    <string name="error_amount">Introduce una cantidad válida</string>
+    <string name="error_protein">Introduce un valor de proteína válido</string>
+    <string name="error_icon">Selecciona un icono para el alimento</string>
+    <string name="btn_add">Añadir</string>
+    <string name="btn_save">Guardar cambios</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="preview_label">Aporta</string>
+    <string name="preview_none">Completa cantidad y proteína para ver el total</string>
+    <string name="snackbar_added">Alimento registrado</string>
+    <string name="snackbar_updated">Alimento actualizado</string>
+
+    <!-- Tab: Hoy -->
+    <string name="ring_of_goal">de %1$s g</string>
+    <string name="ring_percent">%1$d %%</string>
+    <string name="goal_chip">Meta diaria · %1$s g</string>
+    <string name="action_edit">Editar</string>
+    <string name="goal_dialog_title">Meta diaria de proteína</string>
+    <string name="goal_dialog_body">Cantidad objetivo para cada día. También cambia los colores del historial.</string>
+    <string name="goal_dialog_confirm">Guardar</string>
+    <string name="goal_field_label">Gramos por día</string>
+    <string name="section_entries">Alimentos de hoy</string>
+    <string name="empty_today">Todavía no has registrado nada hoy</string>
+    <string name="empty_today_hint">Ve a «Registrar» para añadir tu primer alimento.</string>
+    <string name="badge_goal_reached">Objetivo alcanzado</string>
+    <string name="snackbar_deleted">Alimento eliminado</string>
+    <string name="snackbar_undo">Deshacer</string>
+
+    <!-- Tab: Historial -->
+    <string name="wd_monday">Lunes</string>
+    <string name="wd_tuesday">Martes</string>
+    <string name="wd_wednesday">Miércoles</string>
+    <string name="wd_thursday">Jueves</string>
+    <string name="wd_friday">Viernes</string>
+    <string name="wd_saturday">Sábado</string>
+    <string name="wd_sunday">Domingo</string>
+    <string name="wd_monday_short">L</string>
+    <string name="wd_tuesday_short">M</string>
+    <string name="wd_wednesday_short">X</string>
+    <string name="wd_thursday_short">J</string>
+    <string name="wd_friday_short">V</string>
+    <string name="wd_saturday_short">S</string>
+    <string name="wd_sunday_short">D</string>
+    <string name="action_previous_month">Mes anterior</string>
+    <string name="action_next_month">Mes siguiente</string>
+    <string name="action_go_to_today">Ir a hoy</string>
+    <string name="legend_title">Leyenda</string>
+    <string name="legend_empty">Sin registro</string>
+    <string name="legend_low">Bajo</string>
+    <string name="legend_medium">Medio</string>
+    <string name="legend_high">Casi</string>
+    <string name="legend_met">Meta</string>
+    <string name="legend_note">Los colores se calculan respecto a tu meta actual (%1$s g).</string>
+    <string name="empty_day">Sin alimentos registrados</string>
+    <string name="day_sheet_total">Total del día</string>
+    <string name="day_sheet_goal">Meta: %1$s g</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="cd_day_cell">%1$s %2$d: %3$s g de proteína</string>
+    <string name="cd_no_data_full">%1$s %2$d: sin datos registrados</string>
+    <string name="month_summary">Media del mes: %1$s g · Mejor día: %2$s g</string>
+
+    <!-- Celebración -->
+    <string name="celebration_title">¡Objetivo alcanzado!</string>
+    <string name="celebration_body">Has superado tu meta diaria de %1$s g con %2$s g de proteína.</string>
+    <string name="celebration_continue">Seguir registrando</string>
+    <string name="celebration_view">Ver detalle</string>
+</resources>
