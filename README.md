@@ -156,7 +156,7 @@ app/src/main/java/com/proteintracker/
 Ninguno. Todo se guarda localmente en el dispositivo (Room + DataStore).
 
 ## UI
-<img src="images/Screenshot_20261004_175637_Protein+Tracker.jpg" width="30%" alt="Registrar alimento" />
-<img src="images/Screenshot_20261004_175906_Protein+Tracker.jpg" width="30%" alt="Alimentos de hoy" />
-<img src="images/Screenshot_20261004_175918_Protein+Tracker.jpg" width="30%" alt="Calendario" />
+<img src="images/Screenshot_20261004_175637_Protein+Tracker.jpg" width="25%" alt="Registrar alimento" />
+<img src="images/Screenshot_20261004_175906_Protein+Tracker.jpg" width="25%" alt="Alimentos de hoy" />
+<img src="images/Screenshot_20261004_175918_Protein+Tracker.jpg" width="25%" alt="Calendario" />
 
